@@ -1,6 +1,6 @@
 # Ship-Aircrafts Game
 
-![](https://github.com/Konosubasaki/shipAndAircraftsGame/blob/master/AS.gif)
+![](https://github.com/Konosubasaki/AircraftsPythonGame/blob/master/AS.gif)
 
 #### Right click starts the take off of the plane.
 #### Left click changes the position of the target.
